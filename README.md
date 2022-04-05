@@ -1,3 +1,5 @@
+# 접속
+- http://127.0.0.1:8000/lotto/
 # 구현 사진
 
 ![1](https://user-images.githubusercontent.com/74596625/161744553-d7a5e5a0-0832-4a5f-a270-83d8bf377e14.png)
