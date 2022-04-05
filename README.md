@@ -1,5 +1,5 @@
 # django_mission_01-kyungmin1212
-django_mission_01-kyungmin1212 created by GitHub Classroom
+
 ![1](https://user-images.githubusercontent.com/74596625/161744553-d7a5e5a0-0832-4a5f-a270-83d8bf377e14.png)
 ![2](https://user-images.githubusercontent.com/74596625/161744556-fd59d9ce-be63-4631-817f-a2cdcdad743a.png)
 ![3](https://user-images.githubusercontent.com/74596625/161744557-95e6aa4f-8e31-4505-822f-7a69ad308d6c.png)
